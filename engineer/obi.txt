@@ -1,0 +1,6 @@
+# obi
+
+- name: Obi Gakuto
+- age: 23
+- occupation: graduate student
+- likes: Vim, Shogi, Game, Rust, React, TypeScript

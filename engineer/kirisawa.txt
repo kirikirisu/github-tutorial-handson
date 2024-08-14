@@ -2,4 +2,4 @@
 - name: kirisawa kohei
 - age: 24
 - occupation: web engineer
-- likes: Sushi, Apple, Game, Gym, React, TypeScript, 
+- likes: Sushi, Apple, Game, Gym, React, TypeScript, dance

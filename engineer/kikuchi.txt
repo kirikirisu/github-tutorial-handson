@@ -1,0 +1,4 @@
+# kikuchi
+- name: kikuchi yudai
+- age: 23
+- likes: sauna, anime watching

@@ -2,4 +2,8 @@
 - name: kirisawa kohei
 - age: 24
 - occupation: web engineer
-- likes: Vim, Sushi, Apple, Game, Gym, React, TypeScript, Apple Vision, Meta Quest 3
+feature/fix-kikuchi
+- likes: Vim, Sushi, Apple, Game, Gym, React, TypeScript, Apple Vision, Meta Quest 3, anime
+
+- likes: Vim, Sushi, Apple, Game, Gym, React, TypeScript, Apple Vision, Meta Quest 3, anime
+main

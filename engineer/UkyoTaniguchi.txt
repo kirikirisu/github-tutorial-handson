@@ -1,0 +1,5 @@
+#ukyo
+- name: ukyo taniguchi
+- age: 23
+- likes: sauna, camp, game, trip
+- experience: python, C言語, React, next.js, JavaScript, TypeScript

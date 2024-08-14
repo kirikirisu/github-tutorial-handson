@@ -1,0 +1,5 @@
+# takahashi
+- name: Takahashi Ryunosuke
+- age: 20
+- occupation: Student
+- likes: Chocolate🍫
